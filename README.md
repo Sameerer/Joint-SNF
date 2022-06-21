@@ -1,5 +1,5 @@
-#Joint-SNF
-1. Installation
+# Joint-SNF
+## Installation
 
 install.packages("r.jive")
 
