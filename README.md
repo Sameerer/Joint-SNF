@@ -1,4 +1,4 @@
-# ling617
+#Joint-SNF
 1. Installation
 install.packages("r.jive")
 install.packages("SNFtool")
