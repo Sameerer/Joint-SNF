@@ -2,6 +2,7 @@
 1. Installation
 
 install.packages("r.jive")
+
 install.packages("SNFtool")
 
 2. Introduction
